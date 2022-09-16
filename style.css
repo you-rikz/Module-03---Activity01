@@ -1,0 +1,52 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    font-size: 20px;
+    background-color: burlywood;
+  }
+
+  div p {
+    background-color: gainsboro;
+  }
+
+  .art {
+    border-style: solid;
+}
+.art2 {
+    border-style: solid;
+}
+#Article {
+    text-align: center;
+}
+[title~=spikersturf] {
+    border: 3px solid black;
+    width: 300px;
+    height: 250;
+  }
+
+  [title~=lebron] {
+    border: 3px solid black;
+    width: 500px;
+    height: 250;
+  }
+
+  
+
